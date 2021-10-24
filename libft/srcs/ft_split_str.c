@@ -1,6 +1,3 @@
-//
-// Created by Proteus Antigone on 5/4/21.
-//
 
 #include "libft.h"
 
