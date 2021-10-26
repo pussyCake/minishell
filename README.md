@@ -8,8 +8,6 @@ Minishell is compatible with macos and linux.
 
 ## Building
 
-``$> git clone https://github.com/42f/MINISHELL_42.git ``
-
 ``$> cd minishell``
   
 To use Minishell:
